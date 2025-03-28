@@ -1,5 +1,5 @@
-# smi_viz
-Social Media Influencers of 2022 (Data Visualization)
+# Social Media Influencers of 2022
+Data Visualization project on Tableau
 
 Process:
 1. rename datasets into a uniformed nomenclature.
