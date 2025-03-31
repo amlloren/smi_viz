@@ -5,7 +5,7 @@ SOURCE: https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-chann
 
 ## Data Cleaning:
 
-#### 1. Renamed datasets into a uniformed nomenclature
+### 1. Renamed datasets into a uniformed nomenclature
 
 | Platform | Shortcut | Uniformed Nomenclature |
 |----------|----------|------------------------|
